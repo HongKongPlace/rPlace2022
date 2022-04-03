@@ -15,7 +15,7 @@ and automatically place pixels at the desired locations.
 ## Installation & updating to a new version
 
 ```bash
-pip install --force git+https://github.com/PlaceNL/rPlace2022.git
+pip install --force git+https://github.com/HongKongPlace/rPlace2022.git
 ```
 
 ## Usage
